@@ -1,0 +1,1395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="myoa - 副本:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0a5dbdf0-ba97-482e-8866-826ba6dce58e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/myoa____war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/myoa____war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_3_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_annotation_3_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_core_3_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_extension_3_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_virtuald_curvesapi_1_04.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_javax_servlet_jsp_api_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_2_0_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jstl_jstl_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_dbcp2_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_3_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_3_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_schemas_3_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlbeans_xmlbeans_2_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_4_3_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_4_3_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_3_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__taglibs_standard_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/myoa - 副本.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/.jsdtscope" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.common.component" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.common.project.facet.core.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.jsdt.ui.superType.container" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.jsdt.ui.superType.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.validation.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lzj/controller/AgriculturalController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lzj/controller/MyDocController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lzj/controller/MyLoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lzj/controller/MyUserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lzj/controller/StatisticsController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lzj/controller/WarehouseController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lzj/dao/AgriculturalDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lzj/dao/DocDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lzj/dao/StatisticsDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lzj/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lzj/dao/WarehouseDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lzj/domain/Agricultural.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lzj/domain/Doc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lzj/domain/PageModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lzj/domain/StatisticsVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lzj/domain/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lzj/domain/Warehouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lzj/service/AgriculturalService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lzj/service/DocService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lzj/service/LoginService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lzj/service/StatisticsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lzj/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lzj/service/WarehouseService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lzj/service/impl/AgriculturalServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lzj/service/impl/DocServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lzj/service/impl/LoginServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lzj/service/impl/StatisticsServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lzj/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lzj/service/impl/WarehouseServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lzj/util/HrmConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lzj/util/HrmDownloadUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lzj/util/HrmInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/AgriculturalMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/DocMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/StatisticsMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/WarehouseMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/spring/spring-dao-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/spring/spring-service-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/spring/springmvc-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/content/jsp/404.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/content/jsp/agricultural/agriculturalAdd.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/content/jsp/agricultural/agriculturalEdit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/content/jsp/agricultural/agriculturalList.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/content/jsp/doc/docList.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/content/jsp/doc/docPrint.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/content/jsp/doc/docUpload.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/content/jsp/left.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/content/jsp/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/content/jsp/main.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/content/jsp/register.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/content/jsp/right.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/content/jsp/statistics/diagram.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/content/jsp/statistics/selectPosition.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/content/jsp/statistics/selectRanking.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/content/jsp/taglib.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/content/jsp/top.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/content/jsp/user/userAdd.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/content/jsp/user/userAuditList.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/content/jsp/user/userEdit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/content/jsp/user/userList.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/content/jsp/user/userPrint.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/content/jsp/warehouse/warehouseAdd.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/content/jsp/warehouse/warehouseEdit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/content/jsp/warehouse/warehouseList.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/alert.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/pintuer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/404.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/logo1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/logo2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/logo（icon）.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/upda1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/welcome.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/alert.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/bmap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/distpicker.data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/distpicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/echarts.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-1.12.4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-1.8.2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/pintuer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/position.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/schedule.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/uploadFile/停车系统.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/lzj/controller/AgriculturalController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/lzj/controller/MyDocController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/lzj/controller/MyLoginController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/lzj/controller/MyUserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/lzj/controller/StatisticsController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/lzj/controller/WarehouseController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/lzj/dao/AgriculturalDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/lzj/dao/DocDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/lzj/dao/StatisticsDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/lzj/dao/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/lzj/dao/WarehouseDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/lzj/domain/Agricultural.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/lzj/domain/Doc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/lzj/domain/PageModel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/lzj/domain/StatisticsVo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/lzj/domain/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/lzj/domain/Warehouse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/lzj/service/AgriculturalService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/lzj/service/DocService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/lzj/service/LoginService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/lzj/service/StatisticsService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/lzj/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/lzj/service/WarehouseService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/lzj/service/impl/AgriculturalServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/lzj/service/impl/DocServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/lzj/service/impl/LoginServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/lzj/service/impl/StatisticsServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/lzj/service/impl/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/lzj/service/impl/WarehouseServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/lzj/util/HrmConstants.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/lzj/util/HrmDownloadUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/lzj/util/HrmInterceptor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mapper/AgriculturalMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mapper/DocMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mapper/StatisticsMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mapper/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mapper/WarehouseMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/spring/spring-dao-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/spring/spring-service-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/spring/springmvc-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/classes/com/lzj/controller/AgriculturalController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/classes/com/lzj/controller/MyDocController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/classes/com/lzj/controller/MyLoginController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/classes/com/lzj/controller/MyUserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/classes/com/lzj/controller/StatisticsController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/classes/com/lzj/controller/WarehouseController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/classes/com/lzj/dao/AgriculturalDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/classes/com/lzj/dao/DocDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/classes/com/lzj/dao/StatisticsDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/classes/com/lzj/dao/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/classes/com/lzj/dao/WarehouseDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/classes/com/lzj/domain/Agricultural.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/classes/com/lzj/domain/Doc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/classes/com/lzj/domain/PageModel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/classes/com/lzj/domain/StatisticsVo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/classes/com/lzj/domain/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/classes/com/lzj/domain/Warehouse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/classes/com/lzj/service/AgriculturalService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/classes/com/lzj/service/DocService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/classes/com/lzj/service/LoginService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/classes/com/lzj/service/StatisticsService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/classes/com/lzj/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/classes/com/lzj/service/WarehouseService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/classes/com/lzj/service/impl/AgriculturalServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/classes/com/lzj/service/impl/DocServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/classes/com/lzj/service/impl/LoginServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/classes/com/lzj/service/impl/StatisticsServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/classes/com/lzj/service/impl/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/classes/com/lzj/service/impl/WarehouseServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/classes/com/lzj/util/HrmConstants.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/classes/com/lzj/util/HrmDownloadUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/classes/com/lzj/util/HrmInterceptor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/classes/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/classes/mapper/AgriculturalMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/classes/mapper/DocMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/classes/mapper/StatisticsMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/classes/mapper/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/classes/mapper/WarehouseMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/classes/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/classes/spring/spring-dao-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/classes/spring/spring-service-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/classes/spring/springmvc-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/content/jsp/404.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/content/jsp/agricultural/agriculturalAdd.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/content/jsp/agricultural/agriculturalEdit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/content/jsp/agricultural/agriculturalList.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/content/jsp/doc/docList.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/content/jsp/doc/docPrint.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/content/jsp/doc/docUpload.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/content/jsp/left.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/content/jsp/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/content/jsp/main.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/content/jsp/register.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/content/jsp/right.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/content/jsp/statistics/diagram.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/content/jsp/statistics/selectPosition.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/content/jsp/statistics/selectRanking.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/content/jsp/taglib.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/content/jsp/top.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/content/jsp/user/userAdd.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/content/jsp/user/userAuditList.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/content/jsp/user/userEdit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/content/jsp/user/userList.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/content/jsp/user/userPrint.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/content/jsp/warehouse/warehouseAdd.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/content/jsp/warehouse/warehouseEdit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/content/jsp/warehouse/warehouseList.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/lib/aspectjweaver-1.8.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/lib/classmate-1.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/lib/commons-codec-1.10.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/lib/commons-collections4-4.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/lib/commons-dbcp2-2.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/lib/commons-fileupload-1.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/lib/commons-io-2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/lib/commons-logging-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/lib/commons-pool2-2.4.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/lib/curvesapi-1.04.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/lib/hibernate-validator-6.0.2.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/lib/jackson-annotations-2.9.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/lib/jackson-core-2.9.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/lib/jackson-databind-2.9.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/lib/jboss-logging-3.3.0.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/lib/jsqlparser-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/lib/log4j-1.2.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/lib/mybatis-3.4.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/lib/mybatis-plus-3.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/lib/mybatis-plus-annotation-3.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/lib/mybatis-plus-core-3.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/lib/mybatis-plus-extension-3.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/lib/mybatis-spring-1.3.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/lib/mysql-connector-java-5.1.26.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/lib/poi-3.16.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/lib/poi-ooxml-3.16.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/lib/poi-ooxml-schemas-3.16.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/lib/spring-aop-4.3.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/lib/spring-aspects-4.3.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/lib/spring-beans-4.3.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/lib/spring-context-4.3.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/lib/spring-core-4.3.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/lib/spring-expression-4.3.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/lib/spring-jdbc-4.3.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/lib/spring-orm-4.3.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/lib/spring-tx-4.3.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/lib/spring-web-4.3.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/lib/spring-webmvc-4.3.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/lib/standard-1.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/lib/stax-api-1.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/lib/validation-api-2.0.0.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/lib/xmlbeans-2.6.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/css/alert.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/css/pintuer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/img/404.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/img/banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/img/logo1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/img/logo2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/img/logo（icon）.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/img/upda1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/img/welcome.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/js/alert.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/js/bmap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/js/distpicker.data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/js/distpicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/js/echarts.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/js/jquery-1.12.4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/js/jquery-1.8.2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/js/pintuer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/js/position.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/js/schedule.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myoa-0.0.1-SNAPSHOT/uploadFile/停车系统.txt" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/lzj/controller/MyUserController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-139">
+              <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/lzj/controller/AgriculturalController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="22" column="14" lean-forward="true" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/dzx/util/HrmConstants.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/content/jsp/login.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/content/jsp/top.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/content/jsp/right.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dzx/util/HrmInterceptor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dzx/dao/DocDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dzx/dao/ComplaintsDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dzx/dao/AgriculturalDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dzx/controller/AgriculturalController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/content/jsp/user/userList.jsp" />
+        <option value="$PROJECT_DIR$/src/main/resources/jdbc.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/mapper/StatisticsMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/mapper/WarehouseMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dzx/service/impl/StatisticsServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring/springmvc-config.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lzj/service/impl/StatisticsServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/content/jsp/agricultural/agriculturalEdit.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/content/jsp/user/userEdit.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/content/jsp/user/userPrint.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lzj/controller/MyDocController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lzj/controller/WarehouseController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/content/jsp/taglib.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/content/jsp/agricultural/agriculturalAdd.jsp" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring/spring-dao-config.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lzj/controller/AgriculturalController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lzj/controller/MyUserController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JRebelWorkspace">
+    <option name="jrebelEnabledAutocompile" value="true" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="myoa" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="myoa" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="myoa" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="240" />
+    <option name="y" value="20" />
+    <option name="width" value="1075" />
+    <option name="height" value="1030" />
+  </component>
+  <component name="ProjectId" id="1a1M95u1GE3x2kmzhhbi8N77VmA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="myoa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myoa - 副本" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myoa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myoa - 副本" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myoa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myoa - 副本" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myoa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myoa - 副本" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myoa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myoa - 副本" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myoa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myoa - 副本" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="lzj" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path" value="C:\Users\Administrator\Desktop\java\myoa\src\main\webapp\WEB-INF\lib" />
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.dzx.domain" />
+      <recent name="com.dzx.dao" />
+      <recent name="com.dzx.service.impl" />
+      <recent name="com.dzx.service" />
+      <recent name="com.dzx.controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\java\myoa - 副本\src\main\webapp\js" />
+      <recent name="C:\Users\Administrator\Desktop\java\myoa - 副本\src\main\webapp\css" />
+      <recent name="C:\Users\Administrator\Desktop\java\myoa - 副本\src\main\webapp\WEB-INF\content\jsp\statistics" />
+      <recent name="C:\Users\Administrator\Desktop\java\myoa - 副本\src\main\webapp\WEB-INF\content\jsp" />
+      <recent name="C:\Users\Administrator\Desktop\java\myoa - 副本\src\main\resources\mapper" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.tomcat-7.0.59">
+    <configuration name="run" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="tomcat-7.0.59" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="tomcat-7.0.59" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="myoa - 副本:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_myoa_2" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="52163" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="myoa - 副本:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Maven.run" />
+      <item itemvalue="Tomcat Server.tomcat-7.0.59" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.1600928" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a5dbdf0-ba97-482e-8866-826ba6dce58e" name="Default Changelist" comment="" />
+      <created>1585898493097</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585898493097</updated>
+      <workItem from="1585898718170" duration="68000" />
+      <workItem from="1585898803210" duration="18797000" />
+      <workItem from="1586185777466" duration="43000" />
+      <workItem from="1586186164923" duration="3631000" />
+      <workItem from="1586340553338" duration="3766000" />
+      <workItem from="1587555860935" duration="4614000" />
+      <workItem from="1587568838032" duration="16629000" />
+      <workItem from="1587711727574" duration="27455000" />
+      <workItem from="1587819387510" duration="12268000" />
+      <workItem from="1587909747976" duration="135000" />
+      <workItem from="1587946026629" duration="6537000" />
+      <workItem from="1587975324544" duration="1046000" />
+      <workItem from="1588032580306" duration="604000" />
+      <workItem from="1588070687465" duration="15000" />
+      <workItem from="1588208616675" duration="1810000" />
+      <workItem from="1588210517050" duration="3595000" />
+      <workItem from="1588241017936" duration="196000" />
+      <workItem from="1588254250841" duration="1566000" />
+      <workItem from="1588382824894" duration="1038000" />
+      <workItem from="1588415037947" duration="22000" />
+      <workItem from="1588415382829" duration="224000" />
+      <workItem from="1588466010512" duration="3865000" />
+      <workItem from="1588489959765" duration="816000" />
+      <workItem from="1588574968157" duration="5258000" />
+      <workItem from="1589338524234" duration="159000" />
+      <workItem from="1589339204434" duration="318000" />
+      <workItem from="1589415931259" duration="499000" />
+      <workItem from="1589416514240" duration="439000" />
+      <workItem from="1589416983172" duration="3589000" />
+      <workItem from="1589421343827" duration="890000" />
+      <workItem from="1589423317638" duration="299000" />
+      <workItem from="1589460654646" duration="3177000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="48365000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22147651" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Persistence" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="UI Designer" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info id="Web" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32913166" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.13061798" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.42016807" />
+      <window_info anchor="bottom" id="Problems" order="12" weight="0.429972" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.32913166" />
+      <window_info anchor="bottom" id="Spring" order="14" />
+      <window_info anchor="bottom" id="Database Changes" order="15" />
+      <window_info anchor="bottom" id="Version Control" order="16" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.020134227" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="339" y="171" key="#BuildArtifactsBeforeRunChooser" timestamp="1585983758794">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="171" key="#BuildArtifactsBeforeRunChooser/0.0.1366.728@0.0.1366.728" timestamp="1585983758794" />
+    <state x="13" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587728577579">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="13" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1587728577579" />
+    <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser" timestamp="1587732768459">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1587732768459" />
+    <state x="417" y="278" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath" timestamp="1586186945393">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="417" y="278" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath/0.0.1366.728@0.0.1366.728" timestamp="1586186945393" />
+    <state x="472" y="278" key="#com.intellij.javaee.module.view.web.EditWebRootDialog" timestamp="1586186957249">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="472" y="278" key="#com.intellij.javaee.module.view.web.EditWebRootDialog/0.0.1366.728@0.0.1366.728" timestamp="1586186957249" />
+    <state x="413" y="109" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587743804326">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="109" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1587743804326" />
+    <state x="496" y="121" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1585982676216">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="496" y="121" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1366.728@0.0.1366.728" timestamp="1585982676216" />
+    <state width="449" height="438" key="DebuggerActiveHint" timestamp="1587732444278">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="449" height="438" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1587732444278" />
+    <state x="463" y="112" key="FileChooserDialogImpl" timestamp="1587711816146">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="112" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587711816146" />
+    <state x="237" y="237" width="1084" height="188" key="GridCell.Tab.-1.bottom" timestamp="1587556686302">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="237" y="237" width="1084" height="188" key="GridCell.Tab.-1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587556686302" />
+    <state x="237" y="237" width="1084" height="188" key="GridCell.Tab.-1.center" timestamp="1587556686301">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="237" y="237" width="1084" height="188" key="GridCell.Tab.-1.center/0.0.1366.728@0.0.1366.728" timestamp="1587556686301" />
+    <state x="237" y="237" width="1084" height="188" key="GridCell.Tab.-1.left" timestamp="1587556686301">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="237" y="237" width="1084" height="188" key="GridCell.Tab.-1.left/0.0.1366.728@0.0.1366.728" timestamp="1587556686301" />
+    <state x="237" y="237" width="1084" height="188" key="GridCell.Tab.-1.right" timestamp="1587556686302">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="237" y="237" width="1084" height="188" key="GridCell.Tab.-1.right/0.0.1366.728@0.0.1366.728" timestamp="1587556686302" />
+    <state width="1072" height="173" key="GridCell.Tab.0.bottom" timestamp="1587747025634">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1072" height="173" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587747025634" />
+    <state width="1072" height="173" key="GridCell.Tab.0.center" timestamp="1587747025632">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1072" height="173" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587747025632" />
+    <state width="1072" height="173" key="GridCell.Tab.0.left" timestamp="1587747025632">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1072" height="173" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587747025629" />
+    <state width="1072" height="173" key="GridCell.Tab.0.right" timestamp="1587747025632">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1072" height="173" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587747025632" />
+    <state width="1072" height="173" key="GridCell.Tab.1.bottom" timestamp="1587747025643">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1072" height="173" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587747025643" />
+    <state width="1072" height="173" key="GridCell.Tab.1.center" timestamp="1587747025642">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1072" height="173" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1587747025642" />
+    <state width="1072" height="173" key="GridCell.Tab.1.left" timestamp="1587747025640">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1072" height="173" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1587747025640" />
+    <state width="1072" height="173" key="GridCell.Tab.1.right" timestamp="1587747025643">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1072" height="173" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1587747025643" />
+    <state width="1072" height="173" key="GridCell.Tab.2.bottom" timestamp="1587747025644">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1072" height="173" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587747025644" />
+    <state width="1072" height="173" key="GridCell.Tab.2.center" timestamp="1587747025644">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1072" height="173" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1587747025644" />
+    <state width="1072" height="173" key="GridCell.Tab.2.left" timestamp="1587747025644">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1072" height="173" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1587747025644" />
+    <state width="1072" height="173" key="GridCell.Tab.2.right" timestamp="1587747025644">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1072" height="173" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1587747025644" />
+    <state x="30" y="488" width="1072" height="173" key="GridCell.Tab.3.bottom" timestamp="1587747025644">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="30" y="488" width="1072" height="173" key="GridCell.Tab.3.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587747025644" />
+    <state x="30" y="488" width="1072" height="173" key="GridCell.Tab.3.center" timestamp="1587747025644">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="30" y="488" width="1072" height="173" key="GridCell.Tab.3.center/0.0.1366.728@0.0.1366.728" timestamp="1587747025644" />
+    <state x="30" y="488" width="1072" height="173" key="GridCell.Tab.3.left" timestamp="1587747025644">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="30" y="488" width="1072" height="173" key="GridCell.Tab.3.left/0.0.1366.728@0.0.1366.728" timestamp="1587747025644" />
+    <state x="30" y="488" width="1072" height="173" key="GridCell.Tab.3.right" timestamp="1587747025644">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="30" y="488" width="1072" height="173" key="GridCell.Tab.3.right/0.0.1366.728@0.0.1366.728" timestamp="1587747025644" />
+    <state width="914" height="271" key="GridCell.Tab.6.bottom" timestamp="1587628130015">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="914" height="271" key="GridCell.Tab.6.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587628130015" />
+    <state width="914" height="271" key="GridCell.Tab.6.center" timestamp="1587628130015">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="914" height="271" key="GridCell.Tab.6.center/0.0.1366.728@0.0.1366.728" timestamp="1587628130015" />
+    <state width="914" height="271" key="GridCell.Tab.6.left" timestamp="1587628130015">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="914" height="271" key="GridCell.Tab.6.left/0.0.1366.728@0.0.1366.728" timestamp="1587628130015" />
+    <state width="914" height="271" key="GridCell.Tab.6.right" timestamp="1587628130015">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="914" height="271" key="GridCell.Tab.6.right/0.0.1366.728@0.0.1366.728" timestamp="1587628130015" />
+    <state width="1085" height="282" key="GridCell.Tab.7.bottom" timestamp="1585985468396">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1085" height="282" key="GridCell.Tab.7.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585985468396" />
+    <state width="1085" height="282" key="GridCell.Tab.7.center" timestamp="1585985468396">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1085" height="282" key="GridCell.Tab.7.center/0.0.1366.728@0.0.1366.728" timestamp="1585985468396" />
+    <state width="1085" height="282" key="GridCell.Tab.7.left" timestamp="1585985468396">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1085" height="282" key="GridCell.Tab.7.left/0.0.1366.728@0.0.1366.728" timestamp="1585985468396" />
+    <state width="1085" height="282" key="GridCell.Tab.7.right" timestamp="1585985468396">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1085" height="282" key="GridCell.Tab.7.right/0.0.1366.728@0.0.1366.728" timestamp="1585985468396" />
+    <state x="213" y="21" key="Maven.ArtifactSearchDialog" timestamp="1586345661873">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="21" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1586345661873" />
+    <state x="246" y="0" key="SettingsEditor" timestamp="1587732318937">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="246" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1587732318937" />
+    <state x="375" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1587555886845">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="375" y="190" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587555886845" />
+    <state x="381" y="264" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1586345672887">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="381" y="264" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.728@0.0.1366.728" timestamp="1586345672887" />
+    <state x="253" y="11" key="com.intellij.javaee.view.ServerArtifactsDialog" timestamp="1585907112794">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="253" y="11" key="com.intellij.javaee.view.ServerArtifactsDialog/0.0.1366.728@0.0.1366.728" timestamp="1585907112794" />
+    <state x="153" y="224" width="1101" height="257" key="dock-window-1" timestamp="1587556701482">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="153" y="224" width="1101" height="257" key="dock-window-1/0.0.1366.728@0.0.1366.728" timestamp="1587556701482" />
+    <state x="237" y="237" width="1100" height="226" key="dock-window-2" timestamp="1587556701484">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="237" y="237" width="1100" height="226" key="dock-window-2/0.0.1366.728@0.0.1366.728" timestamp="1587556701484" />
+    <state x="359" y="0" width="647" height="728" key="find.popup" timestamp="1587729150656">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="359" y="0" width="647" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1587729150656" />
+    <state x="339" y="157" key="run.anything.popup" timestamp="1586186685901">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="157" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1586186685901" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1587644797935">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1587644797935" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/content/jsp/doc/docList.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="19" column="38" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/content/jsp/doc/docPrint.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/content/jsp/doc/docUpload.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/content/jsp/warehouse/warehouseAdd.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/content/jsp/warehouse/warehouseEdit.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/content/jsp/404.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/content/jsp/left.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1725">
+          <caret line="69" column="126" selection-start-line="68" selection-end-line="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/content/jsp/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2450">
+          <caret line="98" column="19" selection-start-line="98" selection-start-column="19" selection-end-line="98" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/content/jsp/warehouse/warehouseList.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-dao-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-service-config.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/springmvc-config.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lzj/controller/MyDocController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1646">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lzj/controller/MyLoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-846">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lzj/controller/StatisticsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-710">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lzj/controller/WarehouseController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1785">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lzj/dao/AgriculturalDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lzj/dao/DocDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lzj/dao/StatisticsDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lzj/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lzj/dao/WarehouseDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lzj/domain/Agricultural.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-996">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lzj/domain/Doc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-746">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lzj/domain/PageModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1321">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lzj/domain/StatisticsVo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lzj/domain/Warehouse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1046">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lzj/service/AgriculturalService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-521">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lzj/service/DocService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lzj/service/LoginService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lzj/service/StatisticsService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lzj/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-821">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lzj/service/WarehouseService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-321">
+          <caret line="19" column="15" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lzj/util/HrmConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-771">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lzj/util/HrmDownloadUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lzj/util/HrmInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-296">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mybatis-config.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/AgriculturalMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1796" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/css/pintuer.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2725">
+          <caret line="6401" column="3" selection-start-line="6401" selection-start-column="3" selection-end-line="6401" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/WarehouseMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/css/alert.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/css/main.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/StatisticsMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/DocMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lzj/domain/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lzj/controller/AgriculturalController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="22" column="14" lean-forward="true" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lzj/controller/MyUserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-139">
+          <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>myoa - 副本:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>JPA</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>myoa - 副本</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.baomidou:mybatis-plus-annotation:3.1.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
